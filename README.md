@@ -30,6 +30,11 @@ This tutorial requires that you have a 64-bit Windows computer with a camera and
 
 You will also need to some cloud services.
 
+1. Vuforia
+   - Navigate to [Vuforia Developer Portal](https://developer.vuforia.com)
+   - Click **Register**
+   - Enter information to create a development account
+
 1. Microsoft Azure Resource Group
    - Navigate to [Azure Portal](https://ms.portal.azure.com)
      - Sign in to the Azure Cloud if requested
@@ -95,11 +100,6 @@ You will also need to some cloud services.
    - In the right of the page, click **Keys**
    - Copy **KEY 1** to a text file
 
-1. Vuforia
-   - Navigate to [Vuforia Developer Portal](https://developer.vuforia.com)
-   - Click **Register**
-   - Enter information to create a development account
-
 # Demos
 
 - [**01-HoloWorld**](01-HoloWorld/README.md)
@@ -107,8 +107,8 @@ You will also need to some cloud services.
 - [**03-ImageLabels**](03-ImageLabels/README.md)
 - [**04-Camera**](04-Camera/README.md)
 - [**05-OCR**](05-OCR/README.md)
-- [**06-Translate**](06-Translate/README.md)
-- [**07-Handwriting**](07-Handwriting/README.md)
+- [**06-Handwriting**](06-Handwriting/README.md)
+- [**07-Translate**](07-Translate/README.md)
 - [**08-FacialRecognition**](08-FacialRecognition/README.md)
 
 # Contributing
